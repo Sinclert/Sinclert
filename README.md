@@ -14,4 +14,4 @@ and take a look at my [personal blog][personal-blog] ✨.
 [iris-hep-web]: https://iris-hep.org
 [nyu-cds-web]: https://cds.nyu.edu/about/
 [personal-blog]: https://sinclert.github.io/blog/
-[personal-twitter]: https://twitter.com/Sinclert_95
+[personal-twitter]: https://twitter.com/sinclert_
