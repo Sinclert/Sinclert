@@ -1,10 +1,10 @@
 ### Hello there 👋🏻
 
-I am a devoted _Pythonista_  with interest in Golang, Scala and JavaScript.
+I am a devoted _Pythonista_  with experience in Golang, Ruby and JavaScript.
 I enjoy software architecture and good practices. 👨🏻‍💻
 
 I rarely create new projects within my personal account, as my job at [Shopify][shopify-website]'s
-DB Engineering team reduces the time I can dedicate to open-source. Nevertheless, you can find
+Infrastructure team reduces the time I can dedicate to open-source. Nevertheless, you can find
 my contributions within the organizations listed under my profile information.
 
 Feel free to follow me on [Twitter][personal-twitter]
